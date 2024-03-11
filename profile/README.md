@@ -1,9 +1,6 @@
 <img>
 
-
-
-
-![Uploading github.svg…]()<svg width="2352" height="664" viewBox="0 0 2352 664" fill="none" xmlns="http://www.w3.org/2000/svg">
+![github](https://github.com/Pamther-Solutions/.github/assets/157320521/0fd470b0-a57e-4552-afc9-3fc8320164fa)<svg width="2352" height="664" viewBox="0 0 2352 664" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_14_2)">
 <rect width="2352" height="664" fill="#8257E5"/>
 <rect width="2352" height="664" fill="url(#paint0_linear_14_2)"/>
@@ -178,7 +175,6 @@
 </clipPath>
 </defs>
 </svg>
-
 
 
 
